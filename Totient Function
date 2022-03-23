@@ -24,4 +24,5 @@ function TotientFuntion(number) {
   return (temp * v1) / v2;
 }
 
-console.log(TotientFuntion(133848));
+let input = 133848;
+console.log(`phi of ${input} is : ` + TotientFuntion(input));
