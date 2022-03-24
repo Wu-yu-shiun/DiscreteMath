@@ -1,4 +1,4 @@
-//Totient Fuction (找到n以內和n互質個數)
+//數論--Totient Fuction (找到n以內和n互質個數)
 
 function TotientFuntion(number) {
   let temp = number;
