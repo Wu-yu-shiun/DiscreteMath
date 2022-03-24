@@ -1,4 +1,4 @@
-//數論--質因數分解
+//數論--Prime Factor(質因數分解)
 
 function PrimeFactor(number) {
   let result = `${number} = `;
